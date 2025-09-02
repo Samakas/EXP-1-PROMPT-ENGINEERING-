@@ -23,7 +23,8 @@ Generative AI impact of scaling in LLMs.
 6. Evaluation & Deployment : The model is tested with metrics like perplexity, BLEU, or human evaluation to measure accuracy, usefulness, and safety. Once validated, it is deployed with guardrails, monitoring systems, and filters to ensure reliable and responsible usage.
 
 ## Output
-https://github.com/Samakas/EXP-1-PROMPT-ENGINEERING-/raw/852544e4ef5d9df49444daf6c4c61d10701031c0/gen_ai_report.pdf
+[Download the AI Report (PDF)](https://github.com/Samakas/EXP-1-PROMPT-ENGINEERING-/raw/852544e4ef5d9df49444daf6c4c61d10701031c0/gen_ai_report.pdf)
+
 
 
 ## Result:
