@@ -22,6 +22,9 @@ Generative AI impact of scaling in LLMs.
 
 6. Evaluation & Deployment : The model is tested with metrics like perplexity, BLEU, or human evaluation to measure accuracy, usefulness, and safety. Once validated, it is deployed with guardrails, monitoring systems, and filters to ensure reliable and responsible usage.
 
+## Prompt
+Hey, can you help me write a long report on Generative AI? It needs to be at least 10 pages. First, give it a title and add my name, Samakash R S, and my registration number, 212223230182. Then, start by writing an executive summary. After that, walk me through the basics of how generative AI works, and describe the different kinds of models, like GANs. Next, explain the Transformer architecture, especially the attention part, and how these models are trained with human feedback. Make sure to include sections on how to evaluate the models, the safety issues like bias, and how people are actually using them in real life. Finish it all off with a conclusion and a short list of important words to know.
+
 ## Output
 [Download the AI Report (PDF)](https://github.com/Samakas/EXP-1-PROMPT-ENGINEERING-/raw/852544e4ef5d9df49444daf6c4c61d10701031c0/gen_ai_report.pdf)
 
